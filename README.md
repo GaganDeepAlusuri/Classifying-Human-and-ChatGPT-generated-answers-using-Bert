@@ -11,10 +11,10 @@ This project aims to differentiate between human-generated and GPT-generated ans
 - `question_validation.ipynb`: Contains the implementation of the Huggingface AutoModelForSequenceClassification to classify Reddit post titles as questions or statements.
 
 ## Data Collection Process
-![Data Collection Process](MicrosoftTeams-image.png)
+![Data Collection Process](data_collection.png)
 
 ## BERT Model Architecture
-![BERT Model Architecture](MicrosoftTeams-image (1).png)
+![BERT Model Architecture](bert_architecture.png)
 
 ## Data Collection
 Data was collected from Reddit subreddits (r/AskAcademia, r/Anthropology, r/AskAstrologers, r/AskCulinary, r/AskHistorians, r/datascience), and GPT-3.5 was used to generate corresponding prompts for identified questions.
