@@ -33,5 +33,5 @@ To use the classifiers, input a question-answer pair into the model. The output 
 - OpenAI API access
 
 ## Contact
-For any queries related to this project, please reach out to [alusurigagandeep@gmail.com , akshaykumar6478@gmail.com, dsksrikumar@gmail.com,naveen.kumar.satya@gmail.com , shashank.gujja1999@gmail.com].
+For any queries related to this project, please reach out to [alusurigagandeep@gmail.com , akshaykumar6478@gmail.com, dsksrikumar@gmail.com,naveen.kumar.satya@gmail.com , shashank.gujja1999@gmail.com, kushalreddy1506@gmail.com].
 
